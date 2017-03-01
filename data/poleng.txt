@@ -1,0 +1,860 @@
+aborting	
+usuwanie, przerywanie
+abuse	
+nadużywać, znęcać się
+abysmal	
+fatalny, straszny, beznadziejny
+accomplish	
+osiągać, wykonywać
+accomplished	
+spełniony, dokonany, wykształcony
+accordingly	
+odpowiednia, stosownie
+accordion	
+akordeon, harmonijka, harmonijkowy
+accurate	
+dokładny, ścisły
+adjacent	
+przylegający, sąsiedni
+advocate	
+popierać, zalecić
+affiliate	
+przyłączać, przyjmować w poczet członków
+agnostic	
+agnostyk, niewierzący
+alias	
+pseudonim, przydomek, ksywka
+alignment	u
+stawienie
+alter	
+zmieniać, odmieniać
+amplify	
+wzmacniać, rozszerzyć, zwiększać
+ancestor	
+przodek
+angle	
+narożnik, kąt
+announce	
+ogłaszać, oznajmiać, zawiadamiać
+anticipate	
+przewidywać, przyspieszać
+anxiety	
+niepokój, obawa
+aperture	
+otwór, szczelina, szpara
+append	
+dodawać, dołączać
+apply	
+stosować
+approach	
+podejście, dostęp
+aptly	
+trafnie, stosownie, zręcznie
+aptly	
+stosownie, trafnie
+arbitrary	
+dowolny
+arise	
+powstać, pojawić się, podnosić się
+assign	
+przypisywać, przenosić
+assist	
+pomagać, wspierać, asystować
+assume	
+zakładać, przypuszczać
+augment	
+mnożyć, multyplikować, powiększać (się), wzmagać (się)
+axis	
+oś
+backtrace	
+wracać na tę samą trasę, wycofać się, ślad
+bandwidth	
+przepustowość, pasmo, szerokość pasma
+batch	
+partia, paczka, grupa, plik, wypiek (chleba)
+beacon	
+latarnia morska; światło ostrzegawcze
+beneath
+poniżej, pod
+bent	
+skłonność (do), pociąg, upodobanie; zgięty, wygięty, schylony
+binding	
+wiązanie, oprawa
+blended	
+zmieszany
+bloated	
+nadęty
+blurry	
+mglisty, niewyraźny
+bare bones	
+to co najistotniejsze
+bare-bones	
+suchy, pozbawiony szczegółów
+braces	
+nawiasy { }
+brackets
+nawiasy [ ]
+branch	
+rozgałęziać się, gałąź
+breadcrumb	
+okruszek
+broadly	
+szeroki, z grubsza
+brute - force
+na siłę
+bulk	
+masa, ogrom, większość
+bump into	
+wpadać na
+bunch
+grono, gromada, paczka
+buzzword
+bełkot
+by far	
+zdecydowania, wyraźnie, o wiele, o niebo (np. lepszy)
+canvas
+płótno
+capture	
+zdobywać, chwytać, łapać
+caution	
+przestroga, ostrożność, uwaga, ostrzeżenie
+caveat	
+zastrzeżenie, sprzeciw
+clip	
+urywek, klips, klamra, obcinać
+clunky	
+ciężki, niezgrabny, toporny
+collapse	
+runąć, zawalać się, załamywać się, opadać z sił
+command	
+polecenia, rozkaz
+comparison	
+porównanie
+compile	
+opracowywać, zestawiać, kompilować
+compliant	
+posłuszny, uległy
+compute	
+obliczać, kalkulować
+conditional	
+warunkowy, zależny, uwarunkowany
+conjunction	
+połączenie, łączenie
+conjunction 
+(with)	w połączeniu (z)
+conscious	
+świadomy
+consecutive	
+kolejny, nieprzerwany
+contributor	
+współpracownik, autor artykułów do gazety
+convergence	
+konwergencja, zbieżność
+conversely	
+odwrotnie, na odwrót
+convoluted	
+zagmatwany, zwinięty, skręcony
+core	
+rdzeń, jądro, dusza
+counterintuitive	
+sprzeczne z intuicją
+counterpart	
+odpowiednik, kopia, duplikat
+cram	
+kuć, wepchnąć, zastawić, zawalić, upychać
+crawled	
+zaindeksowane
+credential	
+list uwierzytelniający, referencje
+cringe	
+kulić się, odsuwać się
+critical	
+krytyczny, decydujący, rozstrzygający
+crooked	
+krzywy, koślawy, zakrzywiony
+crucial	
+kluczowy, decydujący, krytyczny
+crude	
+brutalny, niedojrzały, surowy
+culprit	
+winowajca, oskarżony, sprawca
+cumbersome	
+niewygodny, nieporęczny, nieefektywny
+dash	
+myślnik, rzucać, ciskać
+daunting	
+zniechęcać, odstraszający, odstręczający
+default	
+ustawienie domyślne, wartość domyślna
+delegation	
+delegacja, oddelegowanie, reprezentowanie, upoważnienie
+deliberate	
+rozmyślny, zamierzony
+delimiter	
+separator
+demote	
+degradować
+denote	
+oznaczać, cechować
+deploy	
+rozmieszczać, rozstawiać
+deprecate	
+nie doceniać, potępiać
+derive	
+czerpać, pochodzić
+descendant	
+potomek
+desire	
+pragnienie, pragnąć
+deviate	
+odchylać, schodzić z drogi, odbiegać, odstępować
+diligent	
+pracowity, pilny
+dimension	
+wymiar, rozmiar, wielkość, aspekt, czynnik
+directional	
+kierunkowy
+discard	
+wyrzucać, pozbywać się, odrzucać, zarzucać
+disjoin	
+rozdzielać
+distil	
+wydobywać istotę, czerpać
+distinction	
+różnica, rozróżnienie; wyróżnienie (się), odznaczenie
+distortion	
+zniekształcenie, spaczenie, wykrzywienie, skrzywienie
+diverge	
+odbiegać, rozchodzić się
+divide up	
+podzielić się
+drawback	
+ujemna strona, wada, minus
+drill	
+wdrożyć, wiercić, wyćwiczyć
+efficient	
+skuteczny, wydajny, sprawny
+embed	
+osadzać, uwięzić, umieścić, zamocować
+emerge	
+wynurzać się, wyłaniać się, pojawiać się
+emphases	
+uwydatnianie
+emulate	
+naśladować
+enabled	
+uaktywniony, umożliwiony
+encounter	
+spotkanie, napotykać, spotykać, natknąć się
+enhance	
+polepszać, poprawiać, uwydatniać, ulepszać, usprawniać
+enhancement	
+polepszenie, ulepszenie, poprawa, usprawnienie
+entirely	
+całkowicie, wyłącznie
+erase	
+wymazywać, wycierać, zmazywać, usuwać, kasować
+esoteric	
+ezoteryczny
+essential	
+istotny, zasadniczy, podstawowy, nieodzowny, konieczny
+essentially	
+w zasadzie, zasadniczo, w pierwszym rzędzie
+evaluate	
+oceniać, oszacować
+evenly	
+równo, równomiernie
+evolve	
+ewoluować, rozwijać (się), przekształcać (się)
+exact	
+właściwy, dokładny, konkretny, ścisły
+exaggeration	
+przesada, wyolbrzymienie
+executable	
+wykonywalny
+execute	
+wykonywać, przeprowadzać, dokonywać, spełniać (wolę)
+explicit	
+wyraźny, bezpośredni, szczery, bez osłonek, dobitny
+extensible	
+rozszerzalny, rozciągliwy
+extension	
+rozszerzenie, zasięg
+extensively	
+obszernie, szeroko, w dużym stopniu
+externalize	
+uzewnętrzniać
+extract	
+wydobywać, wyciągać, wymuszać, czerpać, wyrywać
+extraneous	
+uboczny, poboczny, zewnętrzny
+fade	
+wyblaknąć, zblednąć
+fallback	
+awaryjna, odwrót, cofanie się
+familiarize (sb) with something	
+zapoznać (kogoś) z czymś
+fearless	
+nieustraszony
+feasible	
+wykonalny, możliwy do zrealizowania, osiągalny, realny
+feedback	
+sprzężenie zwrotne, odzew, reakcja
+fetch	
+przynosić coś, sprowadzać, pójść po kogoś, być wartym, osiągać wartość
+fictitious	
+fikcyjny, zmyślony
+finesse	
+finezja, impas
+flexible	
+giętki, elastyczny, dający się dostosować
+flip	
+przerzucać, kartkować, zmieniać położenie, zwariować
+foreseeable	
+dający się przewidzieć
+fragile	
+kruchy, słaby, wątły
+freely	
+swobodnie, ogólnie
+further reading	
+literatura uzupełniająca
+gain	
+zysk, osiągnięcie, korzyść, wzrost, powiększenie, podniesienie
+gap	
+luka, szczelina, przerwa, odstęp
+garnet	
+granat
+geeky	
+nudny, sztywniacki
+generic	
+ogólny, rodzajowy
+gibber	
+bełkot, mówić prędko, wydawać nieartykułowane dźwięki
+gibberish	
+jazgot, nieartykułowane dźwięki, bełkot
+glance	
+spojrzenie, rzut oka
+glean	
+zbierać, gromadzić, zdobywać
+glossary	
+słownik, słowniczek, indeks, wykaz haseł
+grandeur	
+wielkość, świetność, wspaniałość
+granular	
+ziarnisty, granulowany
+grid	
+krata, ruszt, siatka, sieć (elektryczna), siatka geograficzna
+habit	
+zwyczaj, przyzwyczajenie, nawyk, nałóg
+hand over	
+przekazać, oddać, doręczać
+harm	
+krzywda, uszkodzenie, szkoda
+harsh	
+ostry, szorstki, chropowaty
+haystack	
+stóg siana
+hesitation	
+wahanie
+hindering	
+utrudniać, przeszkodzić, hamować
+hoax	
+fałszywy alarm, oszustwo, bujda, głupi kawał
+hood	
+maska, kaptur, zasłaniać, przykrywać, zakładać
+hook up	
+połączenie, podłączać
+hype	
+szum medialny, przesadna reklama
+hyphenation	
+dzielenie wyrazów
+identifier	
+identyfikator
+immaterial	
+nieistotny, bez znaczenia, niematerialny
+immensely	
+ogromnie, niezmiernie, bezgranicznie
+impact	
+wpływ, uderzenie, zderzenie, udar
+impacted	
+wpływ
+improve	
+ulepszać, polepszać
+in depth look at	
+dogłębnie przyjrzeć się
+in order to	
+żeby, aby
+inbound	
+przychodzące
+inconsistencies	
+niespójność, niezgodność
+inconsistent	
+niezgodny
+indicate	
+wskazywać, pokazywać, ukazywać, sygnalizować
+inefficient	
+nieudolny, niewydajny, nieefektywny
+inflection	
+zagięcie, załamanie
+initially	
+początkowo, pierwotnie
+inordinate	
+nadmierny
+inseparable	
+nierozdzielny, nierozłączny, nieodstępny
+insertion	
+wkładka, wstawka, umieścić
+intimidated	
+zastraszyć, onieśmielony
+intrinsic	
+wewnętrzny
+introductory	
+wstępny, wprowadzający
+invoke	
+odwołać się
+jarring	
+drażniący, zgrzytliwy, ostry
+jive	
+nabrać się, nabijać się
+join	
+łączyć, połączyć
+juggling	
+żonglowanie
+jump on	
+wskoczyć do, obskoczyć, krytykować
+jump over	
+przeskoczyć
+kerning	
+podcinanie
+latitude	
+szerokość geograficzna, swoboda, wolność, tolerancja
+launch	
+wypuszczanie, wypuszczenie 
+lean	
+chudy
+leaner	
+szczuplejszy
+leap	
+skok, przeskok, skakać
+lease	
+dzierżawa, najem
+left angle bracket	
+nawias <
+legibility	
+czytelność
+legible	
+czytelny
+lens	
+soczewki kontaktowe
+leverage	
+działanie dźwigni, przełożenie dźwigni, układ dźwigni, nacisk, zdolność przekonywania, wpływ
+likelihood	
+możliwość, prawdopodobieństwo
+log	
+zapisywać (w dzienniku), rejestrować
+longitude	d
+ługość geograficzna
+Looking for a needle in a haystack
+Szukanie igły w stogu siana
+loop	
+pętla
+magnify	
+powiększać, zwiększać, wyolbrzymiać, potęgować
+magnitude	
+wielkość, rozmiar, waga, znaczenie
+maintain	
+utrzymywać, mieć na utrzymaniu, zachowywać, podtrzymywać
+maintain	
+podtrzymywać, twierdzić
+maintenance	
+konserwacja, utrzymywanie, podtrzymywanie, zachowywanie
+majority	
+większość
+malformed	
+zniekształcony
+malice	
+złośliwość, zły zamiar
+manner	
+sposób, zwyczaj, postawa, maniera
+master	
+poznać, opanować, nabyć, mistrz
+material	
+materialny, materiał
+maturation	
+dojrzewanie
+merely	
+tylko, jedynie, zaledwie, po prostu
+merge	
+scalić, dokonać fuzji, połączyć, mieszać
+mindful	
+świadomy, pomny
+minification	
+zmniejszenie
+minify	
+pomniejszać
+miscellaneous	
+różny, rozmaity
+misconception	
+nieporozumienie, błąd, przesąd
+misnomer	
+n
+iewłaściwa nazwa, błędna
+mode	
+rodzaj, tryb, moda, sposób, tonacja
+modulus	
+współczynnik, wartość bezwzględna, moduł
+monotone	
+monotonnie
+muddy	
+błotny, błotnisty, zaciemniać, zamącić
+narrow	
+wąski, ciasny
+neat	
+czysty, staranny, ekstra, super, świetny, doskonały
+needle	
+igła, wskazówka
+nefarious	
+nikczemny, niegodziwy, niemoralny
+nifty	
+sprytny, szykowny, wspaniały, świetny, ekstra
+nitpicking	
+czepianie się, szukanie dziury w całym
+nitty-gritty	
+zasadniczy, konkretny
+noncontiguous	
+niesąsiadujący
+notably	
+znacznie, znakomicie, szczególnie
+novice	
+nowicjusz
+nuance	
+niuans, odcień
+nudge	
+namawianie, przekonywanie, trącenie łokciem, namawiać, przekonywać
+obfuscation	
+zaćmienie, zaciemnienie, zamroczenie
+oblique	
+ukośny, skośny, pośredni, wymijający, zależny, nieszczery
+observable	
+zauważalny, dający się zaobserwować
+occupy	
+zajmować, mieszkać, okupować, absorbować
+occur	
+zdarzyć się, wystąpić
+offset	
+margines na oprawę, wyrównywać, równoważyć, wynagradzać
+outcry	
+krzyk oburzenia, wrzawa
+outline	
+zarysować, szkic
+overall	
+ogólny, całkowity
+overcome	
+przezwyciężyć, przełamać, opanować
+overkill	
+przesada
+overlay	
+powłoka, warstwa nałożona, nakładka, pokrycie
+overriding	
+nadrzędny, najważniejszy
+oversimplification	
+uproszczenie
+overwhelmed	
+przytłoczony, przygniatać, onieśmielony
+overwriting	
+nadpisywać
+parentheses	
+nawiasy ()
+parlance	
+język, żargon
+peculiar	
+właściwy, szczególny, osobliwy, dziwaczny, specyficzny, indywidualny
+pending	
+do czasu, w oczekiwaniu na, w toku, oczekujący
+pesky	
+cholerny, nieznośny, zakazany
+picky	
+grymaśny, wybredny, kapryśny
+placeholder	
+symbol zastępczy
+polished	
+pierwszorzędny, wypolerowany, wytworny
+preferable	
+lepszy, bardziej pożądany
+premise	
+założenie, przesłanie
+preserve	
+zachować
+preset	
+włączyć, nastawiać
+preview	
+pokaz, reklama, zapowiedź
+prior	
+przed, uprzedni
+prominent	
+wybitny, sławny, widoczny
+provide	
+zapewniać, dostarczać
+pull quote	
+cytat wyrzucony
+purchase	
+kupować, zakupywać, nabywać, uchwycić
+qualm	
+nudności, niepokój, niepokój sumienia, skrupuły, wątpliwość
+queue	
+kolejka
+quirk	
+kalambur, gra słowna, dziwactwo, nawyk, przyzwyczajenie
+ratio	
+stosunek, współczynnik
+raw	
+surowy, czysty, nieobrobiony
+reach	
+dotrzeć, uzyskać
+reaches	
+dorzecze, obszar
+readily	
+łatwo, z łatwością, chętnie
+rebound	
+odbicie
+recap	
+podsumowywać, streszczać
+reciprocity	
+wzajemność, obopólność
+refine	
+oczyszczać, rafinować, ulepszać, udoskonalać
+reflect	
+odzwierciedlić, dumać, odbijać (się)
+regardless	
+bez względu (na), niezależnie (od), pomimo tego, nie licząc się (z)
+reinforce	
+wzmacniać, pokrzepiać, dodawać sił, popierać, zasilać
+relay on	
+polegać na
+reliably	
+niezawodnie
+reminiscent of sth	
+przywołujący coś, przypuszczający
+render	wydać, 
+wykonać, składać, przedstawiać, zinterpretować
+repository	
+przechowalnia, składnica, skład, magazyn
+retrieve	
+odzyskiwać, wyszukiwać, wydobywać, naprawiać
+reusable	
+wielokrotnego użycia
+revamp	
+reorganizować, usprawniać, ulepszać
+ribbon	
+wstążka, wstęga, taśma, tasiemka, baretka
+robust	
+rozrosły, odporny, mocny, solidny, krzepki
+roll up our sleeves	
+zakasać rękawy
+roughly	
+brutalnie, w przybliżeniu, z grubsza, pobieżnie, gwałtownie
+roundabout	
+karuzela, skrzyżowanie o ruchu okrężnym; w sposób pośredni (mówić nie wprost)
+rudimentary	
+prymitywny, elementarny, podstawowy, zasadniczy
+rundown	
+podsumowanie, sprawozdanie, relacja
+runtime	
+czas życia programu
+sake	
+wzgląd
+sandbox	
+piaskownica
+scent	
+zapach
+scepticism	
+sceptycyzm
+scheme	
+plan, projekt, schemat, przedsięwzięcie, program, intryga
+scourge	
+plaga, dopust boży
+scratch	
+zarysować, zadrapać, rozdrapać
+semicolon	
+średnik
+sheer	
+zwykły, zupełny, całkowity, kompletny, pełny, czysty
+shim	
+podkładka regulacyjna
+shorthand	
+stenografia, skrót
+sideway	
+boczny
+silently	
+w ciszy, bez słowa, w milczeniu, bezszelestnie
+skew	
+skośny, pochyły, niesymetryczny
+skim	
+przejrzeć, muskać
+sloppy	
+luźny, niechlujny
+slot	
+szczelina, otwór
+slug	
+dosunąć, łyk, kulka, żeton
+smooth	
+spokojny, gładki, płynny
+snapshot	
+migawka
+sneaky	
+przebiegły, podstępny
+snippet	
+fragment, urywek
+solely	
+jedynie, całkowicie, wyłącznie
+solidify	
+utrwalać, umocnić się
+sparingly	
+oszczędnie, ekonomicznie
+spoof	
+naciąganie, bujda, kant, szachrajstwo
+spoofed
+sfałszowane
+squeeze	
+nacisnąć kogoś, przycisnąć kogoś, dać komuś w kość
+standalone	
+samodzielny, wolnostojący
+standpoint	
+punkt widzenia, stanowisko
+statement	
+wyrażenie, komunikat
+steep	
+stromy, gwałtowny
+stickler	
+pedant
+store	
+przechowywać, sklep, zapasy
+strife	
+konflikt, walka
+struggle	
+borykać się, zmagać
+subroutine	
+podprogram
+subset	
+podzbiór
+substantial	
+istotny, ważny, poważny, znaczący, znaczny, solidny, zasobny, pokaźny
+succinct
+zwięzły, treściwy
+suffice	wystarczać, zadowolić
+synopsis	
+streszczenie, konspekt
+syntax	
+składnia
+tabbed	
+dobrze ubrany, dobrze wyglądający
+tactile	
+dotykowy, dotykalny
+tad	
+odrobina, kapka, ździebełko, ździebko, kapinka, szczypta, ociupinka
+tailor	
+krawiec męski, dostosowywać, przystosowywać
+tangentially	
+stycznie
+tedious	
+żmudny, nudny, monotonny
+template	
+szablon, forma, matryca
+tempting	
+kuszący
+terse	
+krótki, zwięzły, lakoniczny
+thesis	
+teza, praca dyplomowa
+thumb	
+kciuk
+thumbnail	
+miniaturka
+tile	
+kawałek, kafel
+timid	
+nieśmiały, płochliwy
+to act on	
+działać na podstawie, brać pod uwagę
+to be picky	
+kaprysić
+to brush up	
+odświeżać, doskonalić
+track down	
+wyśledzić
+trade - off	
+kompromis, zdecydować się, wymienić
+treatment	
+podejście, leczenie, terapia, obróbka, zabieg, stosowanie, traktowanie
+tricky	
+podchwytliwe, złożony, trudny, szczwany
+trip	
+potknąć się
+trip (sb) up	
+zagiąć (kogoś), podstawić (komuś) nogę
+truncated	
+okrojony, skrócony, ścięty
+trunk	
+bagażnik, trzon, korpus, pień
+turnkey system
+	system pod klucz
+tweak	
+uszczypnąć, ściągać
+tweet	
+ćwierkać, wiadomość na Twitterze
+ubiquitous	
+wszechobecny
+ubiquity	
+wszechobecność
+unbind	
+rozwiązać, rozpuszczać, odpasać
+underlying	
+ukryty, niejasny, zasadniczy, podstawowy
+underscore	
+podkreślać, uwypuklać, uwydatniać
+uneven	
+nierówny, chropowaty, niejednolity, nieparzysty, zmienny
+vacuum	
+próżnia, odkurzacz
+vague	
+niejasny, nieokreślony
+vast	
+obszerny, rozległy, przestronny, ogromny, niezmierny, kolosalny
+verbose	
+gadatliwy, rozwlekły
+versus	
+przeciw, wobec, w zależności od, w funkcji, w opozycji do, kontra
+vex	
+drażnić, denerwować
+via	
+przez, poprzez, za pośrednictwem
+vital	
+życiowy, żywotny, energiczny, aktywny, witalny, przedsiębiorczy, niezbędny
+vocal	
+samogłoska
+volatile	
+lotny, łatwo parujący, szybko zmieniający się
+vulnerable	
+podatny (np. na zranienie, wpływy, uszkodzenia), wrażliwy, słaby, niezabezpieczony, nieosłonięty
+warrant	
+nakaz, uzasadniać, usprawiedliwiać, dawać podstawę, gwarantować, ręczyć, poręczać
+weakly	
+słabo, niepewnie
+widespread	
+rozpowszechniony
+widget	
+moduł skryptowy tworzony przez serwis bloga, aby szybko i łatwo instalować nasze treści i odnośniki
+willing	
+skłonny, chętny
+wire	
+drut, przewód, wtyczka, informator, szpieg (taki, który ma urządzenie do nagrywania rozmów) zainstalować podsłuch, założyć podsłuch
+wire up	
+podłączać do czegoś
+woeful	
+żałosny, przygnębiony, załamany, smutny
+woo	
+zabiegać, zalecać się
+wording	
+sformułowanie, formułowanie
+workflow	
+przepływ, obieg
